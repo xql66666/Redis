@@ -16,6 +16,7 @@ public class JedisTest {
         System.out.println(jedis.get("key2"));
         //关闭
         //啦啦阿拉啊啊啊
+        //分支提交
         jedis.close();
     }
 
