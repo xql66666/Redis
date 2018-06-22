@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../Redis/Jedis">
+      <sourceFolder url="file://$MODULE_DIR$/../../Redis/Jedis/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Redis/Jedis/config" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://F:/2017最新黑马java 全套视频_new/2017最新黑马java 全套视频_new/就业班+Hadoop大数据/【阶段16】Redis/redis/redis/代码/Jedis0523/lib/commons-logging-1.1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://F:/2017最新黑马java 全套视频_new/2017最新黑马java 全套视频_new/就业班+Hadoop大数据/【阶段16】Redis/redis/redis/代码/Jedis0523/lib/commons-pool2-2.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://F:/2017最新黑马java 全套视频_new/2017最新黑马java 全套视频_new/就业班+Hadoop大数据/【阶段16】Redis/redis/redis/代码/Jedis0523/lib/jedis-2.7.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://F:/2017最新黑马java 全套视频_new/2017最新黑马java 全套视频_new/就业班+Hadoop大数据/【阶段16】Redis/redis/redis/代码/Jedis0523/lib/jstl-1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://F:/2017最新黑马java 全套视频_new/2017最新黑马java 全套视频_new/就业班+Hadoop大数据/【阶段16】Redis/redis/redis/代码/Jedis0523/lib/junit-4.9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://F:/2017最新黑马java 全套视频_new/2017最新黑马java 全套视频_new/就业班+Hadoop大数据/【阶段16】Redis/redis/redis/代码/Jedis0523/lib/spring-aop-3.2.0.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://F:/2017最新黑马java 全套视频_new/2017最新黑马java 全套视频_new/就业班+Hadoop大数据/【阶段16】Redis/redis/redis/代码/Jedis0523/lib/spring-aspects-3.2.0.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://F:/2017最新黑马java 全套视频_new/2017最新黑马java 全套视频_new/就业班+Hadoop大数据/【阶段16】Redis/redis/redis/代码/Jedis0523/lib/spring-beans-3.2.0.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://F:/2017最新黑马java 全套视频_new/2017最新黑马java 全套视频_new/就业班+Hadoop大数据/【阶段16】Redis/redis/redis/代码/Jedis0523/lib/spring-context-3.2.0.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://F:/2017最新黑马java 全套视频_new/2017最新黑马java 全套视频_new/就业班+Hadoop大数据/【阶段16】Redis/redis/redis/代码/Jedis0523/lib/spring-context-support-3.2.0.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://F:/2017最新黑马java 全套视频_new/2017最新黑马java 全套视频_new/就业班+Hadoop大数据/【阶段16】Redis/redis/redis/代码/Jedis0523/lib/spring-core-3.2.0.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://F:/2017最新黑马java 全套视频_new/2017最新黑马java 全套视频_new/就业班+Hadoop大数据/【阶段16】Redis/redis/redis/代码/Jedis0523/lib/spring-expression-3.2.0.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://F:/2017最新黑马java 全套视频_new/2017最新黑马java 全套视频_new/就业班+Hadoop大数据/【阶段16】Redis/redis/redis/代码/Jedis0523/lib/spring-jdbc-3.2.0.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://F:/2017最新黑马java 全套视频_new/2017最新黑马java 全套视频_new/就业班+Hadoop大数据/【阶段16】Redis/redis/redis/代码/Jedis0523/lib/spring-orm-3.2.0.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://F:/2017最新黑马java 全套视频_new/2017最新黑马java 全套视频_new/就业班+Hadoop大数据/【阶段16】Redis/redis/redis/代码/Jedis0523/lib/spring-test-3.2.0.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://F:/2017最新黑马java 全套视频_new/2017最新黑马java 全套视频_new/就业班+Hadoop大数据/【阶段16】Redis/redis/redis/代码/Jedis0523/lib/spring-tx-3.2.0.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://F:/2017最新黑马java 全套视频_new/2017最新黑马java 全套视频_new/就业班+Hadoop大数据/【阶段16】Redis/redis/redis/代码/Jedis0523/lib/spring-web-3.2.0.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://F:/2017最新黑马java 全套视频_new/2017最新黑马java 全套视频_new/就业班+Hadoop大数据/【阶段16】Redis/redis/redis/代码/Jedis0523/lib/spring-webmvc-3.2.0.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
